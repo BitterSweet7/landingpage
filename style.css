@@ -11,7 +11,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 400px;
+    padding: 16px 300px;
 }
 .header-logo {
     color: #F9FAF8;
@@ -35,7 +35,7 @@ a, .hero-subtext {
     background-color: #1F2937;
     display: flex;
     flex-direction: row;
-    padding: 150px 400px;
+    padding: 150px 300px;
     gap: 60px
 }
 .hero-maintext {
@@ -77,7 +77,7 @@ button {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
-    padding: 50px 400px;
+    padding: 50px 300px;
 }
 .info-subtexts {
     display: flex;
@@ -85,7 +85,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 50px;
-    padding: 0 400px;
+    padding: 0 300px;
 }
 .image-subtext {
     width: 160px;
@@ -107,7 +107,7 @@ button {
 }
 /* Quote */
 .quote-container {
-    padding: 200px 550px;
+    padding: 200px 350px;
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
@@ -133,9 +133,9 @@ button {
 .call-to-action-container {
     display: flex;
     flex-direction: row;
-    padding: 70px 120px;
+    padding: 50px 120px;
     background-color: #3882F6;
-    margin: 0px 400px;
+    margin: 0px 300px;
     border-radius: 10px;
     color: white;
     justify-content: space-between;
@@ -153,7 +153,7 @@ button {
     padding: 10px 30px
 }
 .subtext-call {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 600;
 }
 .sign-uptext {
@@ -167,6 +167,6 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 400px;
+    padding: 30px 300px;
     font-size: 18px;
 }
